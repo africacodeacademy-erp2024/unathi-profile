@@ -1,21 +1,26 @@
-# Skills
+# Skills :computer:
 
-List your skills here. You can categorize them and provide examples of how you've used each skill.
+Following are my skills
 
 ## Programming Languages
 
-- Language 1
-- Language 2
-- Language 3
+- JavaScript
+- Python
+- C++
+- Java
+- C#
 
 ## Frameworks and Libraries
 
-- Framework/Library 1
-- Framework/Library 2
-- Framework/Library 3
+- React
+- Node.js
+
 
 ## Tools and Technologies
 
-- Tool/Technology 1
-- Tool/Technology 2
-- Tool/Technology 3
+- CI/CD (CircleCI, Vercel)
+- Agile
+- VS Code
+- GitHub
+
+[Back to Main Page](index.md)

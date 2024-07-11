@@ -1,15 +1,37 @@
-# About Me
+# About Me :book:
 
-Write a brief bio about yourself here. You can include information about your background, interests, and what motivates you.
+I am Unathi, a software developer with a strong background in web development and a passion for learning new technologies. I enjoy working on challenging projects that push the boundaries of my knowledge and skills.
 
-## Early Life
 
-Describe your early life and any significant experiences.
+## Early Life :child: 
 
-## Education
+I was born and raised in Maseru. From a young age, I was fascinated by technology and spent countless hours tinkering with computers. This early interest paved the way for my career in software development.
 
-List your educational background and any relevant courses or degrees.
 
-## Professional Experience
+## Education :mortar_board: 
 
-Detail your professional experience and any notable achievements.
+- **Degree:** Bachelor of Sciece (Hons) in Computing
+- **University:** Botho University
+- **Graduation Year:** 2025
+- **Student Exchange Program:** Studied abroad at University of Venda, focusing on Computer Science And Information Systems.
+
+- **Relevant Courses:**
+  - Data Structures and Algorithms
+  - Web Development
+  - Introduction to programming
+  - Software Engineering
+  - Project Management
+  - Interaction Design
+  - Artificial intelligence
+  - OOP
+- **Degree:** Bachelor of Sciece (Hons) in Computing
+- **University:** Botho University
+- **Relevant Courses:**
+  - Data Structures and Algorithms
+  - Web Development
+  - Introduction to programming
+  - Software Engineering
+  - Project Management
+  - Interaction Design
+
+[Back to Main Page](index.md):smiley:

@@ -1,4 +1,4 @@
-# Skills :computer:
+# Skills 👩‍💻
 
 Following are my skills
 

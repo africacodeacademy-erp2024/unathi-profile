@@ -1,4 +1,4 @@
-# Project 2: Loan App System :computer:
+# Project 2: Loan App System 
 
 ## Overview
 

@@ -1,17 +1,17 @@
 # My Personal Bio
 
 ![Project Logo](./images/profile.jpg)
-# About Me :book:
+# About Me 📖
 
 I am Unathi, a software developer with a strong background in web development and a passion for learning new technologies. I enjoy working on challenging projects that push the boundaries of my knowledge and skills..
 
 ## Journey
-## Early Life :child: 
+## Early Life 👶🏽
 
 I was born and raised in Maseru. From a young age, I was fascinated by technology and spent countless hours tinkering with computers. This early interest paved the way for my career in software development.
 
 
-## Education :mortar_board: 
+## Education 🎓
 
 - **Degree:** Bachelor of Sciece (Hons) in Computing
 - **University:** Botho University
@@ -43,12 +43,12 @@ My primary goal for the future is to enhance my technical skills and expertise i
 In addition to career advancement, I aspire to use the knowledge and skills acquired from ACA to explore entrepreneurial ventures and contribute to the African tech ecosystem. By launching personal tech projects and engaging in community-driven initiatives. Ultimately, I hope to become an active member of the ACA community, learning from the diverse perspectives of my peers and instructors while fostering a supportive and collaborative learning environment. 
 
 > ## Projects
->> ### Project 1 :rocket:
+>> ### Project 1 🚀
 >A web-based quiz application built with React and TypeScript. It allows users to take quizzes, see their scores, and get a summary of their performance. [Learn more here](project1.md)
->>### Project 2 :rocket:
+>>### Project 2 🚀
 >This is a project that aims to create a loan application system that stores customer’s user information, the amount applied and the status of the applications. The system’s main user is the clerk, who perform tasks such as adding new applications, deleting, storing, updating application’s statuses and more. The project’s goal is to create an easy-to-use application that stores a vast number of customers.[Learn more here](project2.md)
 
->## Contact
+>## Contact 📞
 >> - [Email](unathilenkoe@gmail.com)
 >> - [LinkedIn Profile](https://www.linkedin.com/in/unathi-lenkoe-51997a25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 >> - [GitHub Profile](https://github.com/UniBelle)
@@ -59,8 +59,8 @@ In addition to career advancement, I aspire to use the knowledge and skills acqu
 
 >## Sections
 
- :m:[About Me](about.md)
-:computer: [Skills](skills.md)
-:rocket: [Projects](projects/index.md)
-:phone: [Contact](contact.md)
+ Ⓜ️ [About Me](about.md)
+ 👩‍💻 [Skills](skills.md)
+ 🚀 [Projects](projects/index.md)
+ 📞 [Contact](contact.md)
 
